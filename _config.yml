@@ -1,0 +1,14 @@
+layout_spectrum: 0.9265643521212041
+typography_spectrum: 0.9062074848916382
+color:
+  brandStrength: 0.11705872230231762
+  lightness: 0.6639017511624843
+  saturation: 0.052810224471613765
+  rhythmicContrast: 0.08389879367314279
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Transeunte
