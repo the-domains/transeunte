@@ -1,4 +1,3 @@
-layout_spectrum: 0.9265643521212041
 typography_spectrum: 0.9062074848916382
 color:
   brandStrength: 0.11705872230231762
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.9265643521212041
 name: Transeunte
 title: Bienvenidos
+description: Clothing design
